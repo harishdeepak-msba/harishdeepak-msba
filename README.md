@@ -49,12 +49,18 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harishdeepak-msba&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=harishdeepak-msba&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harishdeepak-msba&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
 
----
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=harishdeepak-msba&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
+
+<p>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=harishdeepak-msba&theme=tokyonight&hide_border=true" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishdeepak-msba&theme=tokyonight&hide_border=true&layout=compact&count_private=true" />
+</p>
+
 [![](https://visitcount.itsvg.in/api?id=harishdeepak-msba&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
