@@ -1,6 +1,6 @@
 # Hi, I'm Harish Deepak 👋
 
-**Business Transformation Leader | MS in Business Analytics Candidate | AI, Analytics, and Strategy Professional**
+**Business Transformation Leader | MS in Business Analytics | AI, Data Analytics, and Strategy Professional**
 
 I bring **25+ years of industry leadership experience** together with hands-on capability in **business analytics, AI/ML, NLP, data visualization, and decision-support systems**.  
 Currently pursuing my **Master of Science in Business Analytics at the University of Arizona**, I build practical, business-focused solutions that connect data, technology, and strategy to measurable outcomes.
