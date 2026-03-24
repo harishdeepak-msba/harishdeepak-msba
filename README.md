@@ -48,9 +48,6 @@ Currently pursuing my **Master of Science in Business Analytics at the Universit
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishdeepak@gmail.com)
 
 ---
-## 📊 Tableau Portfolio
-[View my Tableau dashboards →](https://public.tableau.com/app/profile/harish.deepak/vizzes)
-
 ## Tech Stack
 
 ### Programming and Analytics
